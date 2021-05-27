@@ -7,7 +7,7 @@ public class TestPeriodo {
 		CalcularPeriodo cp1 = new CalcularPeriodo();
 		
 		LocalDate fecha = LocalDate.of(2002, Month.MAY, 01);
-		cp1.calcularPeriodo("El descubrimiento de AmÃ©rica", fecha);
+		cp1.calcularPeriodo("Mi Cumpleaños", fecha);
 		
 	}
 
